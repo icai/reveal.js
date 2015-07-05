@@ -4,7 +4,7 @@
  * GLOBAL STYLES
  *********************************************/
 
-body {
+.reveal-viewport-#{$themeName} {
 	@include bodyBackground();
 	background-color: $backgroundColor;
 }

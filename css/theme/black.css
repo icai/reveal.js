@@ -10,7 +10,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
-body {
+.reveal-viewport-black {
   background: #222;
   background-color: #222; }
 
